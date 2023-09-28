@@ -1,0 +1,33 @@
+ 
+
+Project Title: AI-Based Promotional Offer Prediction and AI Impact on Marketing Strategy
+
+Abstract:
+
+Marketing is one of several sectors being transformed by artificial intelligence (AI). This study examines the broad impact of artificial intelligence on marketing tactics and presents a useful AI-based model for forecasting the effectiveness of promotional offers. The project's two primary goals are:
+
+1.The Effect of AI on Marketing Strategy: This element entails a thorough analysis of how AI has altered marketing tactics in various sectors. I also go through the potential and problems that AI provides for the marketing industry.
+
+2. AI-Based Promotional Offer Prediction: To anticipate the success of promotional offers, I create an AI-based model. I employ machine learning regression techniques and assess the effectiveness of such methods using important metrics.
+
+
+Methodology:
+I want to give marketers useful information on which promotional offers are most likely to increase sales and improve the customer experience through this project. Here's how I went about doing it:
+
+Python was used to implement the project in the Anaconda environment, which served as the development environment.
+Machine Learning: To forecast the success of promotional offers, I used machine learning regression methods.
+Data Source: The three JSON-format files that make up the  dataset—portfolio.json, transcript.json, and profile.json—are taken from Kaggle.
+
+Dataset Description & Processing:
+
+I made use of the Kaggle dataset for the Starbucks capstone (Sabar, 2020). Three important files make up this dataset:
+
+1. portfolio.json: Contains promotional offer IDs and relevant information, including the nature and length of the deal.
+2. transcript.json: Contains transaction data, information on received and completed promotional offers, and specifics about vieId offers.
+3. profile.json: Contains demographic information about the user.
+
+Please see my project description, code and detailed report for a examination of the dataset and its processing.
+
+This repository provides in-depth analysis of how AI affects marketing tactics and how well  AI-based model performs in forecasting the effectiveness of promotional offers.
+I appreciate your interest in my master's thesis. Please don't hesitate to get in touch at arfanirubez@gmail.com if you have any queries or need further details.
+
